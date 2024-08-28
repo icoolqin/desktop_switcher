@@ -90,11 +90,11 @@ def show_donate():
     else:
         return "Donate image not found"
 
-def create_menu(icon):
+def create_menu():
     return pystray.Menu(
-        pystray.MenuItem("Add to Startup", lambda: icon.notify(add_to_startup())),
-        pystray.MenuItem("Donate", lambda: icon.notify(show_donate())),
-        pystray.MenuItem("Exit", lambda: icon.stop())
+        pystray.MenuItem("Add to Startup", lambda: add_to_startup()),
+        pystray.MenuItem("Donate", lambda: show_donate()),
+        pystray.MenuItem("Exit", lambda: exit())
     )
 
 def run_tray():
@@ -109,7 +109,7 @@ def run_tray():
         switcher = DesktopSwitcher()
         switcher.run()
     
-    icon = pystray.Icon("DesktopSwitcher", image, "Desktop Switcher", menu=create_menu)
+    icon = pystray.Icon("DesktopSwitcher", image, "Desktop Switcher", menu=create_menu())
     icon.run(setup=setup)
 
 if __name__ == "__main__":

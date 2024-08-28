@@ -1,0 +1,6 @@
+# 忽略 build 和 dist 文件夹
+build/
+dist/
+
+# 忽略 desktop_switcher.spec 文件
+desktop_switcher.spec

@@ -1,5 +1,33 @@
 # Desktop Switcher / 桌面切换器
 
+## 中文
+
+### 简介
+桌面切换器是一款轻量级的Windows实用工具，旨在增强您的多桌面使用体验。它允许您使用鼠标手势轻松切换虚拟桌面，使您的工作流程更加流畅和高效。
+
+### 功能特点
+- 通过在屏幕底部滚动来切换虚拟桌面
+- 在屏幕底部中键点击打开任务视图
+- 使用Ctrl + 在屏幕底部滚动来切换应用程序
+- 在系统托盘中运行，方便访问且不影响使用
+
+### 安装和使用
+1. 从[Releases](https://github.com/yourusername/desktop-switcher/releases)页面下载最新的发布ZIP文件。
+2. 将ZIP文件解压到您选择的位置。
+3. 双击`desktop_switcher.exe`文件运行应用程序。
+4. 应用程序将启动并在系统托盘中显示为一个图标。
+
+### 使用桌面切换器
+- 要切换虚拟桌面，将鼠标移到屏幕底部并上下滚动。
+- 要打开任务视图，在屏幕底部中键点击。
+- 要在应用程序之间切换，按住Ctrl键并在屏幕底部滚动。
+
+### 其他选项
+右键点击系统托盘图标以访问其他选项：
+- 添加到启动项：在Windows登录时自动启动桌面切换器。
+- 捐赠：支持桌面切换器的开发。
+- 退出：关闭应用程序。
+
 ## English
 
 ### Introduction
@@ -28,30 +56,6 @@ Right-click the system tray icon to access additional options:
 - Donate: Support the development of Desktop Switcher.
 - Exit: Close the application.
 
-## 中文
 
-### 简介
-桌面切换器是一款轻量级的Windows实用工具，旨在增强您的多桌面使用体验。它允许您使用鼠标手势轻松切换虚拟桌面，使您的工作流程更加流畅和高效。
-
-### 功能特点
-- 通过在屏幕底部滚动来切换虚拟桌面
-- 在屏幕底部中键点击打开任务视图
-- 使用Ctrl + 在屏幕底部滚动来切换应用程序
-- 在系统托盘中运行，方便访问且不影响使用
-
-### 安装和使用
-1. 从[Releases](https://github.com/yourusername/desktop-switcher/releases)页面下载最新的发布ZIP文件。
-2. 将ZIP文件解压到您选择的位置。
-3. 双击`desktop_switcher.exe`文件运行应用程序。
-4. 应用程序将启动并在系统托盘中显示为一个图标。
-
-### 使用桌面切换器
-- 要切换虚拟桌面，将鼠标移到屏幕底部并上下滚动。
-- 要打开任务视图，在屏幕底部中键点击。
-- 要在应用程序之间切换，按住Ctrl键并在屏幕底部滚动。
-
-### 其他选项
-右键点击系统托盘图标以访问其他选项：
-- 添加到启动项：在Windows登录时自动启动桌面切换器。
-- 捐赠：支持桌面切换器的开发。
-- 退出：关闭应用程序。
+# please donate / 请打赏作者
+![developer](./donate.jpg)

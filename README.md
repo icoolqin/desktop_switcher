@@ -28,6 +28,9 @@
 - 捐赠：支持桌面切换器的开发。
 - 退出：关闭应用程序。
 
+### 注意事项
+仅适用于Windows 11 或 以上系统，Windows 10 可能也行。
+
 ## English
 
 ### Introduction
@@ -55,6 +58,9 @@ Right-click the system tray icon to access additional options:
 - Add to Startup: Automatically start Desktop Switcher when you log in to Windows.
 - Donate: Support the development of Desktop Switcher.
 - Exit: Close the application.
+
+### Notes
+Applicable only to Windows 11 or later; Windows 10 may also work.
 
 
 # please donate / 请打赏作者

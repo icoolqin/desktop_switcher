@@ -10,6 +10,7 @@
 - 在屏幕底部中键点击打开任务视图
 - 使用Ctrl + 在屏幕底部滚动来切换应用程序
 - 在系统托盘中运行，方便访问且不影响使用
+- 独立可执行文件 - 无需安装Python
 
 ### 安装和使用
 1. 从[Releases](https://github.com/yourusername/desktop-switcher/releases)页面下载最新的发布ZIP文件。
@@ -41,6 +42,7 @@ Desktop Switcher is a lightweight Windows utility that enhances your multi-deskt
 - Open Task View with a middle-click at the bottom of the screen
 - Switch between applications using Ctrl + scroll at the bottom of the screen
 - Runs in the system tray for easy access and minimal intrusion
+- Standalone executable - no Python installation required
 
 ### Installation and Usage
 1. Download the latest release ZIP file from the [Releases](https://github.com/yourusername/desktop-switcher/releases) page.

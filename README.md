@@ -13,7 +13,7 @@
 - 独立可执行文件 - 无需安装Python
 
 ### 安装和使用
-1. 从[Releases](https://github.com/yourusername/desktop-switcher/releases)页面下载最新的发布ZIP文件。
+1. 从[Releases](https://github.com/icoolqin/desktop_switcher/releases)页面下载最新的发布ZIP文件。
 2. 将ZIP文件解压到您选择的位置。
 3. 双击`desktop_switcher.exe`文件运行应用程序。
 4. 应用程序将启动并在系统托盘中显示为一个图标。
@@ -45,7 +45,7 @@ Desktop Switcher is a lightweight Windows utility that enhances your multi-deskt
 - Standalone executable - no Python installation required
 
 ### Installation and Usage
-1. Download the latest release ZIP file from the [Releases](https://github.com/yourusername/desktop-switcher/releases) page.
+1. Download the latest release ZIP file from the [Releases](https://github.com/icoolqin/desktop_switcher/releases) page.
 2. Extract the ZIP file to a location of your choice.
 3. Double-click the `desktop_switcher.exe` file to run the application.
 4. The application will start and appear as an icon in your system tray.
